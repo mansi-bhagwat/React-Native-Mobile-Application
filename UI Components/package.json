@@ -1,0 +1,34 @@
+{
+  "name": "videoalertappbeautified",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.1.6",
+    "@react-navigation/native-stack": "^7.3.10",
+    "d3-scale": "^4.0.2",
+    "expo": "~53.0.5",
+    "expo-av": "~15.1.4",
+    "expo-status-bar": "~2.2.3",
+    "papaparse": "^5.5.2",
+    "react": "19.0.0",
+    "react-native": "0.79.2",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-pure-chart": "^0.0.24",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.10.0",
+    "react-native-svg": "^15.11.2",
+    "react-native-svg-charts": "^5.4.0",
+    "victory-native": "^41.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
