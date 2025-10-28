@@ -1,0 +1,4 @@
+This folder contains code that integrates 
+1. UI components
+2. Push notification from FCM
+3. Get feedback from user and store in Firebase.
